@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Nitesh Kumar",
+        "imageName": "model",
+        "detail": "This is a dummy data",
+        "date": "12:00 AM"
+    },
+    {
+        "name": "Rupesh Kumar",
+        "imageName": "model1",
+        "detail": "This is a dummy data",
+        "date": "2:00 AM"
+    },
+    {
+        "name": "Abhishek Kumar",
+        "imageName": "model2",
+        "detail": "This is a dummy data",
+        "date": "1:00 AM"
+    },
+    {
+        "name": "Rahul Kumar",
+        "imageName": "model3",
+        "detail": "This is a dummy data",
+        "date": "10:00 PM"
+    },
+    {
+        "name": "Jaya Trivedi",
+        "imageName": "model4",
+        "detail": "This is a dummy data",
+        "date": "4:00 AM"
+    },
+    {
+        "name": "Riya Aggarwal",
+        "imageName": "model5",
+        "detail": "This is a dummy data",
+        "date": "9:00 AM"
+    },
+    {
+        "name": "Prakriti Aggarwal",
+        "imageName": "model6",
+        "detail": "This is a dummy data",
+        "date": "11:00 AM"
+    }
+]
